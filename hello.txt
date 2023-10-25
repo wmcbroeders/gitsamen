@@ -3,3 +3,4 @@ dit is mijn eerste regel 2
 dit is regel 3
 
 command 5
+command 6
